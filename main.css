@@ -1,0 +1,35 @@
+html {
+    background-color: darksalmon;
+}
+h1 {
+    color: black;
+    text-align: top left;
+    font-family:sans-serif;
+}
+h2 {
+    padding-left: 40px;
+    margin-top: -40px;
+    font-size: 15px;
+    text-align: top left;
+    font-family: sans-serif;
+    color: azure;
+}
+
+ul { 
+
+    text-align: center;
+    margin-top: 30px;
+}
+
+li {
+    display: inline;
+    text-align: center;
+    padding-left: 20px;
+     
+}
+li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
